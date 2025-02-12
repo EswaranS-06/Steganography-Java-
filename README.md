@@ -43,7 +43,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/image-steganography-java.git
+git clone https://github.com/EswaranS-06/Steganography-Java-.git
 
 
 2. Open the project in your favorite IDE (e.g., Eclipse or IntelliJ IDEA).
@@ -97,7 +97,7 @@ Name: Eswaran S
 
 College: Hindustan University 
 
-GitHub Profile: [Your GitHub URL]
+GitHub Profile:  [Eswaran S](https://github.com/EswaranS-06)
 
 Email: eswaransk06@gmail.com
 
@@ -105,4 +105,4 @@ Email: eswaransk06@gmail.com
 
 ---
 
-Feel free to replace placeholders like Eswaran S, Hindustan University, and [Your GitHub URL] with your actual details. This README provides all the essential information for users and developers to understand and run the project.
+Feel free to replace placeholders like Eswaran S, Hindustan University, and(https://github.com/EswaranS-06/) with your actual details. This README provides all the essential information for users and developers to understand and run the project.
